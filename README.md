@@ -2,8 +2,8 @@
 
 👨🏻‍💻  About Me
 - 🎓 I’m currently studying in Delhi Technological University (Formerly DCE)
-- 🌱 I’m currently learning Web Development.
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning Web Development
+- ⚡ I love to play cricket🏏
 
 
 ### Connect with me 💬
