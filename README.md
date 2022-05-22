@@ -14,7 +14,7 @@
 <a href="https://twitter.com/Kaushalstwt">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:thakurkaushal987@gmail.com">
+<a href="mailto: thakurkaushal987@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.instagram.com/Kaushalk965/">
